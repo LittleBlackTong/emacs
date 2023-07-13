@@ -1,5 +1,13 @@
 ;;; -*- coding: utf-8; mode: lisp-data -*-
-(("/Users/zhou/Documents/DevolopWorkSpace/CompanyWorkSpace/rocket-qianxi-fanscall/fanscall-server/src/main/java/com/weimob/rocket/fanscall/web/controller/ThirdController.java" . 15412)
+(("/Users/zhou/.emacs.d/lisp/init-magit.el" . 56)
+ ("/Users/zhou/.emacs.d/elpa/magit-20230620.913/magit-autoloads.el" . 89456)
+ ("/Users/zhou/.emacs.d/elpa/git-commit-20230521.2344/git-commit-autoloads.el" . 737)
+ ("/Users/zhou/.emacs.d/elpa/magit-section-20230521.1803/magit-section-autoloads.el" . 523)
+ ("/Users/zhou/.emacs.d/elpa/transient-20230602.2121/transient-autoloads.el" . 2864)
+ ("/Users/zhou/.emacs.d/elpa/with-editor-20230711.1217/with-editor-autoloads.el" . 3965)
+ ("/Users/zhou/.emacs.d/lisp/init-better-defaults.el" . 1777)
+ ("/Users/zhou/.emacs.d/init.el" . 544)
+ ("/Users/zhou/Documents/DevolopWorkSpace/CompanyWorkSpace/rocket-qianxi-fanscall/fanscall-server/src/main/java/com/weimob/rocket/fanscall/web/controller/ThirdController.java" . 15412)
  ("/Users/zhou/.emacs.d/lisp/init-ui.el" . 571)
  ("/Users/zhou/Documents/DevolopWorkSpace/CompanyWorkSpace/rocket-qianxi-fanscall/fanscall-server/src/main/java/com/weimob/rocket/fanscall/FansCallApplication.java" . 1559)
  ("/Users/zhou/.emacs.d/workspace/.cache/com.weimob.rocket.prize.service.PrizeSettingExport.java" . 4310)
@@ -7,9 +15,7 @@
  ("/Users/zhou/.emacs.d/workspace/.cache/java.lang.String.java" . 38659)
  ("/Users/zhou/.emacs.d/workspace/.cache/com.alibaba.dubbo.rpc.proxy.InvokerInvocationHandler.java" . 1939)
  ("/Users/zhou/.emacs.d/lisp/init-java.el" . 1794)
- ("/Users/zhou/.emacs.d/lisp/init-better-defaults.el" . 584)
  ("/Users/zhou/.emacs.d/lisp/init-dap.el" . 472)
- ("/Users/zhou/.emacs.d/init.el" . 585)
  ("/Users/zhou/Documents/DevolopWorkSpace/"
   (dired-filename . "/Users/zhou/Documents/DevolopWorkSpace/StudyWorkSpace"))
  ("/Users/zhou/Documents/DevolopWorkSpace/StudyWorkSpace/"
