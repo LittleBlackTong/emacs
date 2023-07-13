@@ -1,0 +1,54 @@
+;;; -*- coding: utf-8; mode: lisp-data -*-
+(("/Users/zhou/Documents/DevolopWorkSpace/CompanyWorkSpace/rocket-qianxi-fanscall/fanscall-server/src/main/java/com/weimob/rocket/fanscall/web/controller/ThirdController.java" . 15412)
+ ("/Users/zhou/.emacs.d/lisp/init-ui.el" . 571)
+ ("/Users/zhou/Documents/DevolopWorkSpace/CompanyWorkSpace/rocket-qianxi-fanscall/fanscall-server/src/main/java/com/weimob/rocket/fanscall/FansCallApplication.java" . 1559)
+ ("/Users/zhou/.emacs.d/workspace/.cache/com.weimob.rocket.prize.service.PrizeSettingExport.java" . 4310)
+ ("/Users/zhou/.emacs.d/workspace/.cache/java.lang.reflect.Method.java" . 7025)
+ ("/Users/zhou/.emacs.d/workspace/.cache/java.lang.String.java" . 38659)
+ ("/Users/zhou/.emacs.d/workspace/.cache/com.alibaba.dubbo.rpc.proxy.InvokerInvocationHandler.java" . 1939)
+ ("/Users/zhou/.emacs.d/lisp/init-java.el" . 1794)
+ ("/Users/zhou/.emacs.d/lisp/init-better-defaults.el" . 584)
+ ("/Users/zhou/.emacs.d/lisp/init-dap.el" . 472)
+ ("/Users/zhou/.emacs.d/init.el" . 585)
+ ("/Users/zhou/Documents/DevolopWorkSpace/"
+  (dired-filename . "/Users/zhou/Documents/DevolopWorkSpace/StudyWorkSpace"))
+ ("/Users/zhou/Documents/DevolopWorkSpace/StudyWorkSpace/"
+  (dired-filename . "/Users/zhou/Documents/DevolopWorkSpace/StudyWorkSpace/jetcache"))
+ ("/Users/zhou/Documents/DevolopWorkSpace/CompanyWorkSpace/rocket-qianxi-fanscall/"
+  (dired-filename . "/Users/zhou/Documents/DevolopWorkSpace/CompanyWorkSpace/rocket-qianxi-fanscall/fanscall-server"))
+ ("/Users/zhou/Documents/DevolopWorkSpace/CompanyWorkSpace/rocket-qianxi-fanscall/fanscall-server/"
+  (dired-filename . "/Users/zhou/Documents/DevolopWorkSpace/CompanyWorkSpace/rocket-qianxi-fanscall/fanscall-server/src"))
+ ("/Users/zhou/Documents/DevolopWorkSpace/CompanyWorkSpace/rocket-qianxi-fanscall/fanscall-server/src/"
+  (dired-filename . "/Users/zhou/Documents/DevolopWorkSpace/CompanyWorkSpace/rocket-qianxi-fanscall/fanscall-server/src/main"))
+ ("/Users/zhou/Documents/DevolopWorkSpace/CompanyWorkSpace/rocket-qianxi-fanscall/fanscall-server/src/main/"
+  (dired-filename . "/Users/zhou/Documents/DevolopWorkSpace/CompanyWorkSpace/rocket-qianxi-fanscall/fanscall-server/src/main/java"))
+ ("/Users/zhou/Documents/DevolopWorkSpace/CompanyWorkSpace/rocket-qianxi-fanscall/fanscall-server/src/main/java/"
+  (dired-filename . "/Users/zhou/Documents/DevolopWorkSpace/CompanyWorkSpace/rocket-qianxi-fanscall/fanscall-server/src/main/java/com"))
+ ("/Users/zhou/Documents/DevolopWorkSpace/CompanyWorkSpace/rocket-qianxi-fanscall/fanscall-server/src/main/java/com/"
+  (dired-filename . "/Users/zhou/Documents/DevolopWorkSpace/CompanyWorkSpace/rocket-qianxi-fanscall/fanscall-server/src/main/java/com/weimob"))
+ ("/Users/zhou/Documents/DevolopWorkSpace/CompanyWorkSpace/rocket-qianxi-fanscall/fanscall-server/src/main/java/com/weimob/"
+  (dired-filename . "/Users/zhou/Documents/DevolopWorkSpace/CompanyWorkSpace/rocket-qianxi-fanscall/fanscall-server/src/main/java/com/weimob/rocket"))
+ ("/Users/zhou/Documents/DevolopWorkSpace/CompanyWorkSpace/rocket-qianxi-fanscall/fanscall-server/src/main/java/com/weimob/rocket/"
+  (dired-filename . "/Users/zhou/Documents/DevolopWorkSpace/CompanyWorkSpace/rocket-qianxi-fanscall/fanscall-server/src/main/java/com/weimob/rocket/fanscall"))
+ ("/Users/zhou/Documents/DevolopWorkSpace/CompanyWorkSpace/rocket-qianxi-fanscall/fanscall-server/src/main/java/com/weimob/rocket/fanscall/"
+  (dired-filename . "/Users/zhou/Documents/DevolopWorkSpace/CompanyWorkSpace/rocket-qianxi-fanscall/fanscall-server/src/main/java/com/weimob/rocket/fanscall/FansCallApplication.java"))
+ ("/Users/zhou/Documents/DevolopWorkSpace/CompanyWorkSpace/rocket-qianxi-fanscall/fanscall-server/pom.xml" . 2297)
+ ("/Users/zhou/.emacs.d/elpa/"
+  (dired-filename . "/Users/zhou/.emacs.d/elpa/lsp-java-20230615.614"))
+ ("/Users/zhou/.emacs.d/elpa/lsp-java-20230615.614/"
+  (dired-filename . "/Users/zhou/.emacs.d/elpa/lsp-java-20230615.614/dap-java.el"))
+ ("/Users/zhou/.emacs.d/elpa/lsp-java-20230615.614/dap-java.el" . 6841)
+ ("/Users/zhou/.emacs.d/lisp/init-lsp.el" . 682)
+ ("/Users/zhou/.emacs.d/lisp/init-projectile.el" . 68)
+ ("/Users/zhou/Documents/DevolopWorkSpace/CompanyWorkSpace/rocket-qianxi-fanscall/pom.xml" . 2509)
+ ("/Users/zhou/Documents/DevolopWorkSpace/CompanyWorkSpace/rocket-qianxi-fanscall/fanscall-interface/pom.xml" . 1573)
+ ("/Users/zhou/.emacs.d/"
+  (dired-filename . "/Users/zhou/.emacs.d/lisp"))
+ ("/Users/zhou/.emacs.d/lisp/"
+  (dired-filename . "/Users/zhou/.emacs.d/lisp/init-dap.el"))
+ ("/Users/zhou/Documents/DevolopWorkSpace/CompanyWorkSpace/"
+  (dired-filename . "/Users/zhou/Documents/DevolopWorkSpace/CompanyWorkSpace/rocket-qianxi-fanscall"))
+ ("/Users/zhou/Documents/DevolopWorkSpace/CompanyWorkSpace/rocket-qianxi-fanscall/fanscall-server/src/test/java/waterMark/WaterMarkTest.java" . 2290)
+ ("/Users/zhou/.emacs.d/lisp/init-treemacs.el" . 80)
+ ("/Users/zhou/.emacs.d/lisp/init-flycheck.el" . 59)
+ ("/Users/zhou/.emacs.d/lisp/init-diminish.el" . 1153))

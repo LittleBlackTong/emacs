@@ -1,0 +1,16 @@
+System.out.println(soaResponse);
+JSONObject.toJSONString(request);
+System.out.println(request.getTemplateId())
+request
+request.getTemplateId();
+request.getPrizeIds()
+request.getActivityId();
+log.info(request);
+request.toString();
+soaResponse.getGlobalTicket();
+soaResponse.getResponseVo()
+soaResponse.getResponseVo().getPage();
+import com.alibaba.fastjson.JSONObject;
+JSONObject.toJSONString(request);
+com.alibaba.fastjson.JSONObject.toJSONString(request);
+com.alibaba.fastjson.JSONObject.toJSONString(soaResponse);

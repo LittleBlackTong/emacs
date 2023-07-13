@@ -1,0 +1,6 @@
+eclipse.m2.downloadSources=false
+eclipse.m2.problem.notCoveredMojoExecution=warning
+eclipse.m2.problem.outofdateProjectConfig=warning
+eclipse.m2.unkownMojoExecutionAction=ignore
+eclipse.m2.userSettingsFile=/Users/zhou/Documents/DevelopTool/maven/settings.xml
+eclipse.preferences.version=1
