@@ -15,5 +15,6 @@
 
 (diminish 'ivy-mode)
 (diminish 'company-mode)
+(diminish 'projectile-mode)
 
 (provide 'init-diminish)

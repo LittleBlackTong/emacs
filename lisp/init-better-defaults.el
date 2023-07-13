@@ -79,13 +79,20 @@
 (use-package yasnippet-snippets :ensure t)
 
 ;;指令提示
-
 (use-package which-key
   :ensure t
   :init
   (which-key-mode)
-  (which-key-setup-side-window-bottom);; 底部弹窗现实
+  ;; 底部弹窗现实
+  (which-key-setup-side-window-bottom)
   (which-key-setup-minibuffer)
   (setq which-key-idle-delay -1))
+
+;; 增强窗口选择
+(use-package switch-window
+  :ensure t
+  :init 
+  (setq switch-window-shortcut-style 'qwerty))
+
 
 (provide 'init-better-defaults)

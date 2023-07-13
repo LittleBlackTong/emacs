@@ -76,4 +76,18 @@
   :config
   (add-hook 'compilation-filter-hook 'my/ansi-colorize-buffer))
 
+
+(use-package doom-modeline
+  :ensure t
+  :init (doom-modeline-mode 1)
+  :config 
+  (setq doom-modeline-lsp t)
+  (setq doom-modeline-icon nil)
+  (setq doom-modeline-minor-modes nil)
+  (setq doom-modeline-github t)
+  (setq doom-modeline-github-interval (* 30 60))
+  (setq doom-modeline-time t)
+  (setq doom-modeline-display-misc-in-all-mode-lines t)
+  (setq doom-modeline-env-load-string "..."))
+
 (provide 'init-ui)

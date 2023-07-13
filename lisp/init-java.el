@@ -30,8 +30,8 @@
 			            "-XX:GCTimeRatio=4" 
 			            "-XX:AdaptiveSizePolicyWeight=90" 
 			            "-Dsun.zip.disableMemoryMapping=true" 
-			            "-Xmx6G" 
-			            "-Xms2G"
+			            "-Xmx2G" 
+			            "-Xms500m"
 			            "-javaagent:/Users/zhou/Documents/DevelopTool/maven/repository/org/projectlombok/lombok/1.18.26/lombok-1.18.26.jar"
 			            ))
 
