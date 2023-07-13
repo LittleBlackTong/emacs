@@ -2,3 +2,7 @@ elpa
 elpa/*
 .DS_Store
 history
+recent
+places
+.dap-breakpoints
+.lsp-session-v1
